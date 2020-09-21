@@ -32,7 +32,7 @@ Some limitations of the date is that we the data is from campaigns in different 
 Some campaigns were launched at different time and could of been successful if launched in a different year.
 None of the the same campaigns were launched in different countries to see if there would of been a different outcome.
 - What are some other possible tables and/or graphs that we could create?
-Outcomes based on Deadline
-Outcomes based on staff_pick
-Outcomes based on Number_of_backers
-Outcomes based on Currency
+  -Outcomes based on Deadline
+  -Outcomes based on staff_pick
+  -Outcomes based on Number_of_backers
+  -Outcomes based on Currency
